@@ -22,13 +22,13 @@ public enum Color {
                 return color;
         }
 
-        static int getRandomColor(){
+        static String getRandomColor(){
                 int min = 1;
                 int max = 8;
                 max -= min;
                 int Avg = (int)(Math.random() * max) + min;
-                return Avg;
-
+                String color = Color.values()[Avg].getColor();
+                return color;
         }
 
         }

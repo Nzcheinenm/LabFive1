@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="191e19b9-4f2f-41d5-a8c3-55404b01837c" name="Default Changelist" comment="" />
+    <list default="true" id="191e19b9-4f2f-41d5-a8c3-55404b01837c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/company/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Utils.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SMjovEe6gpTIYXdcn1v1fWyX79" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -57,5 +64,16 @@
       <updated>1571380536933</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

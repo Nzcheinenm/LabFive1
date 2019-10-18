@@ -12,7 +12,7 @@ public class Utils {
     }
 
     public static void printRandom(String text) {
-        System.out.println(Color.values()[Color.getRandomColor()].getColor() + text + ANSI_RESET.getColor());
+        System.out.println(Color.getRandomColor() + text + ANSI_RESET.getColor());
     }
 
 
